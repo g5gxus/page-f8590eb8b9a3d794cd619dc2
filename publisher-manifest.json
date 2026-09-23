@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bab45afff5e3199ad87a5f41",
+  "owner": "g5gxus",
+  "repo": "page-f8590eb8b9a3d794cd619dc2",
+  "title": "跨境电商专用网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f8590eb8b9a3d794cd619dc2",
+      "a": "跨境电商专用网络",
+      "b": "2027最新官网",
+      "entity": "跨境电商专用网络",
+      "brand": "跨境电商专用网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cc6bea6e9977e20d15b52744f451201c123d401a2af49e19d2014f802d1120ab",
+      "content": {
+        "primary_entity": "跨境电商专用网络",
+        "keyword1": "跨境电商专用网络",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，跨境电商专用网络为跨境店铺运营、商品页加载与后台同步提供稳定连接，套餐按月付或年付可选，设备数量与流量按档位区分。基础版每月 100GB 流量，支持 3 台设备在线，适合单店起步卖家；旗舰版每月 300GB 流量，支持 5 台设备，并含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量，支持 20 台设备，含 VIP 高带宽节点与企业定制路由。年付方案可降低月均开销，多店铺团队建议从旗舰版或团队版开始，再按在线设备数调整。",
+          "AI_HERO_SUBTITLE": "跨境电商专用网络，稳定连接全球店铺",
+          "AI_HERO_INTRO": "跨境电商专用网络面向亚马逊、独立站与社媒店铺运营，提供多地区节点与客户端订阅配置。基础版、旗舰版、团队版按流量与设备数区分，月付灵活、年付更省。根据日常在线设备、流量消耗和是否需要专线优化选择套餐，再按设备文档导入订阅即可开始使用。",
+          "AI_VISUAL_TITLE": "跨境电商专用网络套餐指南",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "按店铺规模、设备数量与流量需求匹配套餐，减少反复调整。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "单店日常浏览与后台操作选基础版 100GB；多店铺频繁传图选 300GB 旗舰版。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "手机加电脑共 3 台以内选基础版；含平板与备用机选旗舰版 5 台；团队协作选 20 台团队版。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付适合短期测试，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，拉低月均成本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备适合不同订阅客户端，按系统选择并参考对应配置文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线优化；团队版 ¥85/月含 1000GB、20 台设备与 VIP 节点。年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "从选套餐到客户端订阅导入，按步骤处理即可。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据在线设备数与月流量，在基础版、旗舰版、团队版中选定一档，并确认月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统版本与网络环境，确认所选客户端支持当前设备类型。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端，按客户端文档导入订阅信息，连接节点后开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定运营",
+          "AI_CLOSING_TEXT": "按店铺规模选择基础版、旗舰版或团队版，完成客户端订阅配置即可开始。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版流量差多少？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。按店铺数量与直播频率选择，流量需求大的团队可选旗舰版或团队版。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备在线，旗舰版支持 5 台，团队版支持 20 台。请按实际客服坐席和运营电脑数量选择，避免超出设备上限影响使用。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，年付一次性支付一年费用。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用年付更节省。",
+          "AI_FAQ_QUESTION_4": "跨境直播选哪个套餐？",
+          "AI_FAQ_ANSWER_4": "直播推流对带宽和稳定性要求较高，建议选择旗舰版或团队版。旗舰版包含 IPLC 专线，团队版提供 VIP 专属高带宽节点，可按直播场次和并发数评估。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_5": "购买套餐后，根据设备系统和所用客户端，按照对应客户端文档导入订阅信息即可。不同客户端的操作步骤略有差异，请以所用客户端文档为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gn1wv6kz6c453c.com",
+    "host": "xn--yfrw1gn1wv6kz6c453c.com"
+  },
+  "file_hashes": {
+    "index.html": "3f14ad1fad3e1596058763a27ff33012da3d91804f7ebef5271a4d3c933fefa9",
+    "sitemap.xml": "e5a7aebd50df70fe05b72e7c8eb667dacec029e6534ace69e463d3ee13a127c9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "381a2af6b7446fac00b2eeaab6991a90d2afa551dc6b920bc04beb9f20819fcf",
+    "robots.txt": "23031670494df3117e5e219a08173810a7c21c8d7435a9a46dd1834b9eaf66e1",
+    "aae480f4ab3e29eb98e3aa1c961c7096.txt": "9d3ef88b2ee09618525d1aac760cb578440ba203049c67c7daea21fff928dbed"
+  },
+  "revision": "e3e148b5707e706f86216c9c42e5d87f93fc2b6e5d39e1bdc67286a5085e625f"
+}
